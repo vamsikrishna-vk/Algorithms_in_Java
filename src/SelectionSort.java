@@ -2,7 +2,7 @@
 public class SelectionSort {
     public static void main(String args[]){
         int[] arr={10,12,34,11,0,8};
-        int small= arr[0];
+        int small;
         int temp;
         for(int j=0;j<arr.length-1;j++) {
             small=arr[j];
