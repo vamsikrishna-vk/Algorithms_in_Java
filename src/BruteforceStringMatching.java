@@ -16,7 +16,7 @@ public class BruteforceStringMatching {
                     if(j==pattern.length()-1){
                     return 1;
                     }
-                    continue;
+
                 }
                 else{
                     break;
