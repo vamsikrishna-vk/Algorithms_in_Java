@@ -1,9 +1,8 @@
 //sort integer array using Merge Sort
-
 import java.util.*;
 public class MergeSort {
     public static void main(String args[]){
-        int[] arr= {8,33,2,49,7,1,5,4,63,25};
+        int[] arr= {8,33,2,49,7,1,5,4,63,25,33,20,11,2,5,6,87978,54356,1};
         Mergesort(arr); // merge sort function
         for(int i=0;i<arr.length;i++) {
             System.out.println(arr[i]);
