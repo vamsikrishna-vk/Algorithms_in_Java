@@ -1,7 +1,7 @@
 // sort integer array using quick sort
 public class QuickSort {
     public static void main(String args[]){
-        int[] arr ={13,12,5,3,1,6,200,350,150,1,53};
+        int[] arr ={1,2,3,4,5,6};
         QuickSort(arr,0,arr.length-1);
         for(int i=0;i<arr.length;i++){
             System.out.println(arr[i]);
