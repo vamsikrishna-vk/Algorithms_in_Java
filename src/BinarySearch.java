@@ -6,14 +6,16 @@ public class BinarySearch {
     }
     static int BinarySearch(int key,int low,int high,int[] arr) {
 
-        if (high >= low) {
+        while (high >= low) {
             int mid = (high + low )/ 2;
             if (arr[mid] == key) {
                 return mid;
             } else if (arr[mid] > key) {
-                return BinarySearch(key, low, mid-1, arr);
+                high=mid-1;
+//                return BinarySearch(key, low, mid-1, arr);
             } else {
-                return BinarySearch(key, mid+1, high, arr);
+                low=mid+1;
+//                return BinarySearch(key, mid+1, high, arr);
             }
         }
         return -1;
