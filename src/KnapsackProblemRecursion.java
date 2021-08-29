@@ -2,11 +2,13 @@
 //Knapsack Problem using Recursion by bruteforce approach
 public class KnapsackProblemRecursion {
     public static void main(String args[]){
-     int BagSize=10;
-     int[] weights={1,3,4,6};
-     int[] values={20,30,10,50};
+     int BagSize=4;
+     int[] weights={2,1,2,1};
+     int[] values={100,10,15,17};
      int[][] DP=new int[7][11];
      int n= weights.length;
+     String arr= new String();
+
      for(int i=0;i<7;i++){
          DP[i][0]=0;
      }

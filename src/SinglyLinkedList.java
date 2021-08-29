@@ -118,7 +118,20 @@ class LinkedList {
 
     }
     void ReverseList(){
+        if(head==null || head.next==null){
+            System.out.print("Reversed");
+        }
+        else{
+            node t,p,q;
+            t=head;
+            p=head;
+            q=null;
+            while(t!=null){
+                t=t.next;
+                p.next=q;
 
+            }
+        }
     }
     void Display(){
         if(head==null){
