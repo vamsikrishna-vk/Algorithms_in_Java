@@ -1,0 +1,744 @@
+{
+    "asset": {
+        "version": "1.0",
+        "generator": "Open Asset Import Library (assimp v4.1.0)"
+    },
+    "accessors": {
+        "Layer 1_mesh_accessor": {
+            "bufferView": "Layer 1_mesh_view",
+            "byteOffset": 0,
+            "byteStride": 0,
+            "componentType": 5126,
+            "count": 300,
+            "type": "VEC3",
+            "max": [
+                -30.4866943359375,
+                3.176635980606079,
+                301.2074279785156
+            ],
+            "min": [
+                -33.66668701171875,
+                0.0,
+                301.2074279785156
+            ]
+        },
+        "Layer 1_mesh_accessor_0": {
+            "bufferView": "Layer 1_mesh_view_0",
+            "byteOffset": 0,
+            "byteStride": 0,
+            "componentType": 5126,
+            "count": 300,
+            "type": "VEC3",
+            "max": [
+                0.0,
+                0.0,
+                0.9999989867210388
+            ],
+            "min": [
+                0.0,
+                0.0,
+                0.9983069896697998
+            ]
+        },
+        "Layer 1_mesh_accessor_1": {
+            "bufferView": "Layer 1_mesh_view_1",
+            "byteOffset": 0,
+            "byteStride": 0,
+            "componentType": 5126,
+            "count": 300,
+            "type": "VEC2",
+            "max": [
+                1.0,
+                1.0
+            ],
+            "min": [
+                0.0,
+                0.0
+            ]
+        },
+        "Layer 1_mesh_accessor_2": {
+            "bufferView": "Layer 1_mesh_view_2",
+            "byteOffset": 0,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 1269,
+            "type": "SCALAR",
+            "max": [
+                299.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        "Layer 1 Front Bevel Material_mesh_accessor": {
+            "bufferView": "Layer 1 Front Bevel Material_mesh_view",
+            "byteOffset": 0,
+            "byteStride": 0,
+            "componentType": 5126,
+            "count": 1,
+            "type": "VEC3",
+            "max": [
+                -32.07861328125,
+                0.011353000067174435,
+                301.2074279785156
+            ],
+            "min": [
+                -32.07861328125,
+                0.011353000067174435,
+                301.2074279785156
+            ]
+        },
+        "Layer 1 Front Bevel Material_mesh_accessor_0": {
+            "bufferView": "Layer 1 Front Bevel Material_mesh_view_0",
+            "byteOffset": 0,
+            "byteStride": 0,
+            "componentType": 5126,
+            "count": 1,
+            "type": "VEC3",
+            "max": [
+                0.0,
+                0.0,
+                0.9999989867210388
+            ],
+            "min": [
+                0.0,
+                0.0,
+                0.9999989867210388
+            ]
+        },
+        "Layer 1 Front Bevel Material_mesh_accessor_1": {
+            "bufferView": "Layer 1 Front Bevel Material_mesh_view_1",
+            "byteOffset": 0,
+            "byteStride": 0,
+            "componentType": 5126,
+            "count": 1,
+            "type": "VEC2",
+            "max": [
+                0.4994029998779297,
+                0.9964209794998169
+            ],
+            "min": [
+                0.4994029998779297,
+                0.9964209794998169
+            ]
+        },
+        "Layer 1 Front Bevel Material_mesh_accessor_2": {
+            "bufferView": "Layer 1 Front Bevel Material_mesh_view_2",
+            "byteOffset": 0,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 3,
+            "type": "SCALAR",
+            "max": [
+                0.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        "Layer 1 Extrusion Material_mesh_accessor": {
+            "bufferView": "Layer 1 Extrusion Material_mesh_view",
+            "byteOffset": 0,
+            "byteStride": 0,
+            "componentType": 5126,
+            "count": 522,
+            "type": "VEC3",
+            "max": [
+                -30.4866943359375,
+                3.176635980606079,
+                301.2074279785156
+            ],
+            "min": [
+                -33.66668701171875,
+                0.0,
+                300.9784240722656
+            ]
+        },
+        "Layer 1 Extrusion Material_mesh_accessor_0": {
+            "bufferView": "Layer 1 Extrusion Material_mesh_view_0",
+            "byteOffset": 0,
+            "byteStride": 0,
+            "componentType": 5126,
+            "count": 522,
+            "type": "VEC3",
+            "max": [
+                0.9999989867210388,
+                0.9999989867210388,
+                0.0
+            ],
+            "min": [
+                -0.9999989867210388,
+                -0.9999989867210388,
+                0.0
+            ]
+        },
+        "Layer 1 Extrusion Material_mesh_accessor_1": {
+            "bufferView": "Layer 1 Extrusion Material_mesh_view_1",
+            "byteOffset": 0,
+            "byteStride": 0,
+            "componentType": 5126,
+            "count": 522,
+            "type": "VEC2",
+            "max": [
+                1.0,
+                1.0
+            ],
+            "min": [
+                -0.0,
+                0.0
+            ]
+        },
+        "Layer 1 Extrusion Material_mesh_accessor_2": {
+            "bufferView": "Layer 1 Extrusion Material_mesh_view_2",
+            "byteOffset": 0,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 960,
+            "type": "SCALAR",
+            "max": [
+                521.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        "Layer 1 Back Bevel Material_mesh_accessor": {
+            "bufferView": "Layer 1 Back Bevel Material_mesh_view",
+            "byteOffset": 0,
+            "byteStride": 0,
+            "componentType": 5126,
+            "count": 1,
+            "type": "VEC3",
+            "max": [
+                -32.07861328125,
+                0.011353000067174435,
+                301.2074279785156
+            ],
+            "min": [
+                -32.07861328125,
+                0.011353000067174435,
+                301.2074279785156
+            ]
+        },
+        "Layer 1 Back Bevel Material_mesh_accessor_0": {
+            "bufferView": "Layer 1 Back Bevel Material_mesh_view_0",
+            "byteOffset": 0,
+            "byteStride": 0,
+            "componentType": 5126,
+            "count": 1,
+            "type": "VEC3",
+            "max": [
+                0.0,
+                0.0,
+                0.9999989867210388
+            ],
+            "min": [
+                0.0,
+                0.0,
+                0.9999989867210388
+            ]
+        },
+        "Layer 1 Back Bevel Material_mesh_accessor_1": {
+            "bufferView": "Layer 1 Back Bevel Material_mesh_view_1",
+            "byteOffset": 0,
+            "byteStride": 0,
+            "componentType": 5126,
+            "count": 1,
+            "type": "VEC2",
+            "max": [
+                0.4994029998779297,
+                0.9964209794998169
+            ],
+            "min": [
+                0.4994029998779297,
+                0.9964209794998169
+            ]
+        },
+        "Layer 1 Back Bevel Material_mesh_accessor_2": {
+            "bufferView": "Layer 1 Back Bevel Material_mesh_view_2",
+            "byteOffset": 0,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 3,
+            "type": "SCALAR",
+            "max": [
+                0.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        "Layer 1 Back Inflation Material_mesh_accessor": {
+            "bufferView": "Layer 1 Back Inflation Material_mesh_view",
+            "byteOffset": 0,
+            "byteStride": 0,
+            "componentType": 5126,
+            "count": 300,
+            "type": "VEC3",
+            "max": [
+                -30.4866943359375,
+                3.176635980606079,
+                300.9784240722656
+            ],
+            "min": [
+                -33.66668701171875,
+                0.0,
+                300.9784240722656
+            ]
+        },
+        "Layer 1 Back Inflation Material_mesh_accessor_0": {
+            "bufferView": "Layer 1 Back Inflation Material_mesh_view_0",
+            "byteOffset": 0,
+            "byteStride": 0,
+            "componentType": 5126,
+            "count": 300,
+            "type": "VEC3",
+            "max": [
+                0.0,
+                0.0,
+                -0.9983069896697998
+            ],
+            "min": [
+                0.0,
+                0.0,
+                -0.9999989867210388
+            ]
+        },
+        "Layer 1 Back Inflation Material_mesh_accessor_1": {
+            "bufferView": "Layer 1 Back Inflation Material_mesh_view_1",
+            "byteOffset": 0,
+            "byteStride": 0,
+            "componentType": 5126,
+            "count": 300,
+            "type": "VEC2",
+            "max": [
+                1.0,
+                1.0
+            ],
+            "min": [
+                0.0,
+                0.0
+            ]
+        },
+        "Layer 1 Back Inflation Material_mesh_accessor_2": {
+            "bufferView": "Layer 1 Back Inflation Material_mesh_view_2",
+            "byteOffset": 0,
+            "byteStride": 0,
+            "componentType": 5123,
+            "count": 1269,
+            "type": "SCALAR",
+            "max": [
+                299.0
+            ],
+            "min": [
+                0.0
+            ]
+        }
+    },
+    "buffers": {
+        "../../download/kc4wc3mw577j/kc4wc3mw577j": {
+            "byteLength": 42982,
+            "type": "arraybuffer",
+            "uri": "../../download/kc4wc3mw577j/kc4wc3mw577j.bin"
+        }
+    },
+    "bufferViews": {
+        "Layer 1_mesh_view": {
+            "buffer": "../../download/kc4wc3mw577j/kc4wc3mw577j",
+            "byteOffset": 0,
+            "byteLength": 3600,
+            "target": 34962
+        },
+        "Layer 1_mesh_view_0": {
+            "buffer": "../../download/kc4wc3mw577j/kc4wc3mw577j",
+            "byteOffset": 3600,
+            "byteLength": 3600,
+            "target": 34962
+        },
+        "Layer 1_mesh_view_1": {
+            "buffer": "../../download/kc4wc3mw577j/kc4wc3mw577j",
+            "byteOffset": 7200,
+            "byteLength": 2400,
+            "target": 34962
+        },
+        "Layer 1_mesh_view_2": {
+            "buffer": "../../download/kc4wc3mw577j/kc4wc3mw577j",
+            "byteOffset": 9600,
+            "byteLength": 2538,
+            "target": 34963
+        },
+        "Layer 1 Front Bevel Material_mesh_view": {
+            "buffer": "../../download/kc4wc3mw577j/kc4wc3mw577j",
+            "byteOffset": 12140,
+            "byteLength": 12,
+            "target": 34962
+        },
+        "Layer 1 Front Bevel Material_mesh_view_0": {
+            "buffer": "../../download/kc4wc3mw577j/kc4wc3mw577j",
+            "byteOffset": 12152,
+            "byteLength": 12,
+            "target": 34962
+        },
+        "Layer 1 Front Bevel Material_mesh_view_1": {
+            "buffer": "../../download/kc4wc3mw577j/kc4wc3mw577j",
+            "byteOffset": 12164,
+            "byteLength": 8,
+            "target": 34962
+        },
+        "Layer 1 Front Bevel Material_mesh_view_2": {
+            "buffer": "../../download/kc4wc3mw577j/kc4wc3mw577j",
+            "byteOffset": 12172,
+            "byteLength": 6,
+            "target": 34963
+        },
+        "Layer 1 Extrusion Material_mesh_view": {
+            "buffer": "../../download/kc4wc3mw577j/kc4wc3mw577j",
+            "byteOffset": 12180,
+            "byteLength": 6264,
+            "target": 34962
+        },
+        "Layer 1 Extrusion Material_mesh_view_0": {
+            "buffer": "../../download/kc4wc3mw577j/kc4wc3mw577j",
+            "byteOffset": 18444,
+            "byteLength": 6264,
+            "target": 34962
+        },
+        "Layer 1 Extrusion Material_mesh_view_1": {
+            "buffer": "../../download/kc4wc3mw577j/kc4wc3mw577j",
+            "byteOffset": 24708,
+            "byteLength": 4176,
+            "target": 34962
+        },
+        "Layer 1 Extrusion Material_mesh_view_2": {
+            "buffer": "../../download/kc4wc3mw577j/kc4wc3mw577j",
+            "byteOffset": 28884,
+            "byteLength": 1920,
+            "target": 34963
+        },
+        "Layer 1 Back Bevel Material_mesh_view": {
+            "buffer": "../../download/kc4wc3mw577j/kc4wc3mw577j",
+            "byteOffset": 30804,
+            "byteLength": 12,
+            "target": 34962
+        },
+        "Layer 1 Back Bevel Material_mesh_view_0": {
+            "buffer": "../../download/kc4wc3mw577j/kc4wc3mw577j",
+            "byteOffset": 30816,
+            "byteLength": 12,
+            "target": 34962
+        },
+        "Layer 1 Back Bevel Material_mesh_view_1": {
+            "buffer": "../../download/kc4wc3mw577j/kc4wc3mw577j",
+            "byteOffset": 30828,
+            "byteLength": 8,
+            "target": 34962
+        },
+        "Layer 1 Back Bevel Material_mesh_view_2": {
+            "buffer": "../../download/kc4wc3mw577j/kc4wc3mw577j",
+            "byteOffset": 30836,
+            "byteLength": 6,
+            "target": 34963
+        },
+        "Layer 1 Back Inflation Material_mesh_view": {
+            "buffer": "../../download/kc4wc3mw577j/kc4wc3mw577j",
+            "byteOffset": 30844,
+            "byteLength": 3600,
+            "target": 34962
+        },
+        "Layer 1 Back Inflation Material_mesh_view_0": {
+            "buffer": "../../download/kc4wc3mw577j/kc4wc3mw577j",
+            "byteOffset": 34444,
+            "byteLength": 3600,
+            "target": 34962
+        },
+        "Layer 1 Back Inflation Material_mesh_view_1": {
+            "buffer": "../../download/kc4wc3mw577j/kc4wc3mw577j",
+            "byteOffset": 38044,
+            "byteLength": 2400,
+            "target": 34962
+        },
+        "Layer 1 Back Inflation Material_mesh_view_2": {
+            "buffer": "../../download/kc4wc3mw577j/kc4wc3mw577j",
+            "byteOffset": 40444,
+            "byteLength": 2538,
+            "target": 34963
+        }
+    },
+    "materials": {
+        "DefaultMaterial": {
+            "values": {
+                "ambient": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "diffuse": [
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    1.0
+                ],
+                "specular": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "emission": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "shininess": 0.0
+            }
+        },
+        "Layer 1 Front Inflation Material": {
+            "values": {
+                "ambient": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "diffuse": [
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    1.0
+                ],
+                "specular": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "emission": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "shininess": 0.0
+            }
+        },
+        "Layer 1 Front Bevel Material": {
+            "values": {
+                "ambient": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "diffuse": [
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    1.0
+                ],
+                "specular": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "emission": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "shininess": 0.0
+            }
+        },
+        "Layer 1 Extrusion Material": {
+            "values": {
+                "ambient": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "diffuse": [
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    1.0
+                ],
+                "specular": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "emission": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "shininess": 0.0
+            }
+        },
+        "Layer 1 Back Bevel Material": {
+            "values": {
+                "ambient": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "diffuse": [
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    1.0
+                ],
+                "specular": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "emission": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "shininess": 0.0
+            }
+        },
+        "Layer 1 Back Inflation Material": {
+            "values": {
+                "ambient": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "diffuse": [
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    1.0
+                ],
+                "specular": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "emission": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "shininess": 0.0
+            }
+        }
+    },
+    "meshes": {
+        "Layer 1_mesh": {
+            "name": "",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": "Layer 1 Front Inflation Material",
+                    "indices": "Layer 1_mesh_accessor_2",
+                    "attributes": {
+                        "POSITION": "Layer 1_mesh_accessor",
+                        "NORMAL": "Layer 1_mesh_accessor_0",
+                        "TEXCOORD_0": "Layer 1_mesh_accessor_1"
+                    }
+                }
+            ]
+        },
+        "Layer 1 Front Bevel Material_mesh": {
+            "name": "",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": "Layer 1 Front Bevel Material",
+                    "indices": "Layer 1 Front Bevel Material_mesh_accessor_2",
+                    "attributes": {
+                        "POSITION": "Layer 1 Front Bevel Material_mesh_accessor",
+                        "NORMAL": "Layer 1 Front Bevel Material_mesh_accessor_0",
+                        "TEXCOORD_0": "Layer 1 Front Bevel Material_mesh_accessor_1"
+                    }
+                }
+            ]
+        },
+        "Layer 1 Extrusion Material_mesh": {
+            "name": "",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": "Layer 1 Extrusion Material",
+                    "indices": "Layer 1 Extrusion Material_mesh_accessor_2",
+                    "attributes": {
+                        "POSITION": "Layer 1 Extrusion Material_mesh_accessor",
+                        "NORMAL": "Layer 1 Extrusion Material_mesh_accessor_0",
+                        "TEXCOORD_0": "Layer 1 Extrusion Material_mesh_accessor_1"
+                    }
+                }
+            ]
+        },
+        "Layer 1 Back Bevel Material_mesh": {
+            "name": "",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": "Layer 1 Back Bevel Material",
+                    "indices": "Layer 1 Back Bevel Material_mesh_accessor_2",
+                    "attributes": {
+                        "POSITION": "Layer 1 Back Bevel Material_mesh_accessor",
+                        "NORMAL": "Layer 1 Back Bevel Material_mesh_accessor_0",
+                        "TEXCOORD_0": "Layer 1 Back Bevel Material_mesh_accessor_1"
+                    }
+                }
+            ]
+        },
+        "Layer 1 Back Inflation Material_mesh": {
+            "name": "",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": "Layer 1 Back Inflation Material",
+                    "indices": "Layer 1 Back Inflation Material_mesh_accessor_2",
+                    "attributes": {
+                        "POSITION": "Layer 1 Back Inflation Material_mesh_accessor",
+                        "NORMAL": "Layer 1 Back Inflation Material_mesh_accessor_0",
+                        "TEXCOORD_0": "Layer 1 Back Inflation Material_mesh_accessor_1"
+                    }
+                }
+            ]
+        }
+    },
+    "nodes": {
+        "kc4wc3mw577j.obj": {
+            "children": [
+                "Layer 1"
+            ]
+        },
+        "Layer 1": {
+            "meshes": [
+                "Layer 1_mesh",
+                "Layer 1 Front Bevel Material_mesh",
+                "Layer 1 Extrusion Material_mesh",
+                "Layer 1 Back Bevel Material_mesh",
+                "Layer 1 Back Inflation Material_mesh"
+            ]
+        }
+    },
+    "scenes": {
+        "defaultScene": {
+            "nodes": [
+                "kc4wc3mw577j.obj"
+            ]
+        }
+    },
+    "scene": "defaultScene"
+}
